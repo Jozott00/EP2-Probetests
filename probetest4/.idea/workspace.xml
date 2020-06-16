@@ -1,7 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f82ef48-7f9d-4862-878a-b46f39120095" name="Default" comment="" />
+    <list default="true" id="3f82ef48-7f9d-4862-878a-b46f39120095" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../probetest1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/.idea/codeInsightSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/.idea/uebung.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/Aufgabe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/CheckMCTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/Choice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/MCQuestion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/MCTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/Monomial.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/Monomial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/Polynomial.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/Polynomial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/PraxisApplication.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/PraxisApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/src/Aufgabe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/src/CheckMCTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/src/Choice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/src/MCQuestion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/src/MCTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/src/Monomial.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/src/Monomial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/src/Polynomial.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/src/Polynomial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/src/PraxisApplication.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/src/PraxisApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest1/src/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest3/out/production/uebung/Constant.class" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/out/production/uebung/Constant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest3/out/production/uebung/ConstantIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest3/out/production/uebung/HSIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/out/production/uebung/HSIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest3/out/production/uebung/HornerScheme.class" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/out/production/uebung/HornerScheme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest3/out/production/uebung/MCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/out/production/uebung/MCTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest3/out/production/uebung/PraxisApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/out/production/uebung/PraxisApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest3/src/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/src/Constant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest3/src/HornerScheme.java" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/src/HornerScheme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest3/src/MCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/src/MCTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest3/src/PraxisApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/src/PraxisApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +64,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1dPN1hH4OnHmBQTHurSRvmlCaU3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -34,7 +80,7 @@
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.PraxisApplication">
     <configuration name="PraxisApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PraxisApplication" />
       <module name="uebung" />
@@ -75,8 +121,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
         <item itemvalue="Application.PraxisApplication" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -90,7 +136,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556802206896</updated>
-      <workItem from="1592322557437" duration="7097000" />
+      <workItem from="1592322557437" duration="8488000" />
+      <workItem from="1592338744065" duration="567000" />
     </task>
     <servers />
   </component>
@@ -106,60 +153,49 @@
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
     <state x="2732" y="520" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592322573295" />
-    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1592329631937">
+    <state width="1878" height="357" key="GridCell.Tab.0.bottom" timestamp="1592334911505">
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592329631937" />
-    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1592329631935">
+    <state width="1878" height="357" key="GridCell.Tab.0.bottom/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592334911505" />
+    <state width="1878" height="357" key="GridCell.Tab.0.center" timestamp="1592334911504">
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592329631935" />
-    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1592329631935">
+    <state width="1878" height="357" key="GridCell.Tab.0.center/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592334911504" />
+    <state width="1878" height="357" key="GridCell.Tab.0.left" timestamp="1592334911503">
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592329631935" />
-    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1592329631936">
+    <state width="1878" height="357" key="GridCell.Tab.0.left/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592334911503" />
+    <state width="1878" height="357" key="GridCell.Tab.0.right" timestamp="1592334911504">
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592329631936" />
-    <state width="1878" height="357" key="GridCell.Tab.1.bottom" timestamp="1592329480776">
+    <state width="1878" height="357" key="GridCell.Tab.0.right/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592334911504" />
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom" timestamp="1592334911507">
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
-    <state width="1878" height="357" key="GridCell.Tab.1.bottom/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592329480776" />
-    <state width="1878" height="357" key="GridCell.Tab.1.center" timestamp="1592329480775">
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592334911507" />
+    <state width="1878" height="357" key="GridCell.Tab.1.center" timestamp="1592334911506">
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
-    <state width="1878" height="357" key="GridCell.Tab.1.center/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592329480775" />
-    <state width="1878" height="357" key="GridCell.Tab.1.left" timestamp="1592329480774">
+    <state width="1878" height="357" key="GridCell.Tab.1.center/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592334911506" />
+    <state width="1878" height="357" key="GridCell.Tab.1.left" timestamp="1592334911506">
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
-    <state width="1878" height="357" key="GridCell.Tab.1.left/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592329480774" />
-    <state width="1878" height="357" key="GridCell.Tab.1.right" timestamp="1592329480775">
+    <state width="1878" height="357" key="GridCell.Tab.1.left/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592334911506" />
+    <state width="1878" height="357" key="GridCell.Tab.1.right" timestamp="1592334911507">
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
-    <state width="1878" height="357" key="GridCell.Tab.1.right/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592329480775" />
+    <state width="1878" height="357" key="GridCell.Tab.1.right/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592334911507" />
     <state x="111" y="64" width="1809" height="1039" maximized="true" key="dock-window-1" timestamp="1592323776544">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="111" y="64" width="1809" height="1039" maximized="true" key="dock-window-1/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592323776544" />
-    <state x="116" y="23" width="1804" height="1086" maximized="true" key="dock-window-2" timestamp="1592323972715">
+    <state x="116" y="23" width="1804" height="1086" maximized="true" key="dock-window-2" timestamp="1592338750761">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="116" y="23" width="1804" height="1086" maximized="true" key="dock-window-2/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592323972715" />
+    <state x="116" y="23" width="1804" height="1086" maximized="true" key="dock-window-2/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592338750761" />
     <state x="2489" y="212" width="782" height="825" key="find.popup" timestamp="1592323560637">
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
     <state x="2489" y="212" width="782" height="825" key="find.popup/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592323560637" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ComposedOperator.java</url>
-          <line>63</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

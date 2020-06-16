@@ -14,10 +14,10 @@ public class MCTest {
                         "Java-Collections-Framework zu?",
 
                         new Choice(false, "LinkedHashMap<K,V> ist sowohl Hash-Tabelle als auch lineare Liste."),
-                        new Choice(true, "Set<E> erweitert Collection<E>, verbietet aber mehrfache Einträge."),
-                        new Choice(true, "LinkedList<E> implementiert Deque<E> als doppeltverkettete Liste."),
+                        new Choice(false, "Set<E> erweitert Collection<E>, verbietet aber mehrfache Einträge."),
+                        new Choice(false, "LinkedList<E> implementiert Deque<E> als doppeltverkettete Liste."),
                         new Choice(false, "LinkedList<E> implementiert Set<E> als einfachverkettete Liste."),
-                        new Choice(true, "Einträge in einem TreeSet<E> sind sortiert (über Iterator sichtbar).")
+                        new Choice(false, "Einträge in einem TreeSet<E> sind sortiert (über Iterator sichtbar).")
                 ),
 
                 new MCQuestion(
@@ -25,16 +25,16 @@ public class MCTest {
 
                         new Choice(false, "Puffer können als Wrapper vor nichtgepufferte Streams gehängt werden."),
                         new Choice(false, "Ausgaben über gepufferte Streams gehen direkt an das Betriebssystem."),
-                        new Choice(true, "Streams vom Typ Reader wandeln die Kodierung automatisch um."),
-                        new Choice(true, "Gepufferte Streams sind meist effizienter als ungepufferte."),
-                        new Choice(true, "Streams werden nach der Verwendung mittels close() geschlossen.")
+                        new Choice(false, "Streams vom Typ Reader wandeln die Kodierung automatisch um."),
+                        new Choice(false, "Gepufferte Streams sind meist effizienter als ungepufferte."),
+                        new Choice(false, "Streams werden nach der Verwendung mittels close() geschlossen.")
                 ),
 
                 new MCQuestion(
                         "Welche der folgenden Aussagen treffen auf die Einhaltung von Zusicherungen\n" +
                         "entsprechend Design-by-Contract zu?",
 
-                        new Choice(true, "Server können sich auf die Einhaltung ihrer Vorbedingungen verlassen."),
+                        new Choice(false, "Server können sich auf die Einhaltung ihrer Vorbedingungen verlassen."),
                         new Choice(false, "Server müssen für die Einhaltung ihrer Vorbedingungen sorgen."),
                         new Choice(false, "Clients müssen für die Einhaltung von Invarianten sorgen."),
                         new Choice(false, "Server können sich auf die Einhaltung ihrer Nachbedingungen verlassen."),
@@ -47,9 +47,9 @@ public class MCTest {
                         "dieser Methode sinnvoll sein?",
 
                         new Choice(false, "Vorbedingung: Gibt den Median zurück wenn a sortiert ist."),
-                        new Choice(true, "Vorbedingung: a ist aufsteigend sortiert."),
+                        new Choice(false, "Vorbedingung: a ist aufsteigend sortiert."),
                         new Choice(false, "Vorbedingung: Greift auf einen Eintrag von a zu."),
-                        new Choice(true, "Nachbedingung: Gibt einen Eintrag etwa in der Mitte von a zurück."),
+                        new Choice(false, "Nachbedingung: Gibt einen Eintrag etwa in der Mitte von a zurück."),
                         new Choice(false, "Nachbedingung: Halbiert die Länge von a.")
                 ),
 
@@ -57,9 +57,9 @@ public class MCTest {
                         "Welche der folgenden Aussagen treffen auf das Testen großer Programme zu?",
 
                         new Choice(false, "Debugger eignen sich zum Aufdecken fast aller Fehlerursachen."),
-                        new Choice(true, "Experten für Softwaresicherheit sollen einbezogen werden."),
-                        new Choice(true, "Eine Code-Review hilft beim Auffinden von Fehlerursachen."),
-                        new Choice(true, "Black-Box-Testen leitet Testfälle aus Anwendungsfällen ab."),
+                        new Choice(false, "Experten für Softwaresicherheit sollen einbezogen werden."),
+                        new Choice(false, "Eine Code-Review hilft beim Auffinden von Fehlerursachen."),
+                        new Choice(false, "Black-Box-Testen leitet Testfälle aus Anwendungsfällen ab."),
                         new Choice(false, "Mit absichtlichen Fehlern ist die Qualität des Testens prüfbar.")
                 )
         );

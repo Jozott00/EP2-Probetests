@@ -1,4 +1,3 @@
-import javax.swing.text.html.HTMLDocument;
 import java.util.*;
 
 // 'Constant' implements 'Polynomial' and represents a polynomial with degree 0 corresponding
@@ -12,66 +11,78 @@ public class Constant implements Polynomial {
 
     //TODO: define missing parts of this class.
 
-    private int c;
+    private int constant;
+
     // Initializes this object.
     // Precondition: c != 0.
     public Constant(int c) {
-        //TODO: implement constructor.
-        assert c != 0;
 
-        this.c = c;
+        //TODO: implement constructor.
+        this.constant = c;
+
     }
 
     @Override
     public int degree() {
-        return 1;
+        return 0;
     }
 
     @Override
     public List<Integer> coefficients() {
-        ArrayList<Integer> clist = new ArrayList<>();
-        clist.add(c);
-        return clist;
+        ArrayList<Integer> list = new ArrayList<>();
+        list.add(constant);
+        return list;
     }
 
     @Override
     public double eval(double x) {
-        return c;
+        return constant;
     }
 
     @Override
     public Iterator<Integer> iterator() {
-        return new ConstantIterator(c);
+        return new CIterator(constant);
     }
 
     @Override
     public String toString() {
-        return "" + c;
+        return"" + constant;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Constant other = (Constant) o;
+        return constant == other.constant;
+    }
+
+    @Override
+    public int hashCode() {
+        return constant*63;
     }
 }
 
+class CIterator implements Iterator {
 
-class ConstantIterator implements Iterator<Integer> {
+    int constant;
+    boolean wasCalled = false;
 
-    private int c;
-    private boolean isCalled = false;
-
-    public ConstantIterator(int c) {
-        this.c = c;
+    public CIterator (int constant){
+        this.constant = constant;
     }
 
     @Override
     public boolean hasNext() {
-        return !isCalled;
+        return !wasCalled;
     }
 
     @Override
-    public Integer next() throws NoSuchElementException {
-        if(hasNext()) {
-            isCalled = true;
-            return c;
-        }
-        throw new NoSuchElementException();
+    public Object next() throws NoSuchElementException {
+        if(!hasNext()) throw new NoSuchElementException("no coefficient!");
+
+        wasCalled = true;
+        return constant;
     }
 }
 

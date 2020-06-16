@@ -14,12 +14,12 @@ public class HornerScheme implements Polynomial {
     private int a;
     private Polynomial p;
 
-
     // Initializes this object.
     // Precondition: 'p' must not be 'null'.
     public HornerScheme(int a, Polynomial p) {
-        //TODO: implement this constructor.
         assert p != null;
+        //TODO: implement this constructor.
+
         this.a = a;
         this.p = p;
     }
@@ -28,32 +28,19 @@ public class HornerScheme implements Polynomial {
     // Precondition: coeffs != null and coeffs has at least one element.
     public static Polynomial create(int[] coeffs) {
         //TODO: implement this method.
-        assert coeffs != null && coeffs.length > 0;
+        assert coeffs != null;
+        Polynomial poly = new Constant(coeffs[coeffs.length-1]);
+        if(coeffs.length > 1)
+            for(int i = coeffs.length-2; i >= 0;i-- ) {
+                poly = new HornerScheme(coeffs[i], poly);
+            }
 
-        Polynomial c = new Constant(1);
-
-        for(int i = coeffs.length-1; i >= 0; i-- ) {
-            c = new HornerScheme(coeffs[i], c);
-        }
-
-        return c;
-    }
-
-    public int getA() {
-        return a;
-    }
-
-    public Polynomial getP() {
-        return p;
+        return poly;
     }
 
     @Override
     public int degree() {
-        if(p instanceof Constant) {
-            return 1;
-        }
-
-        return 1+p.degree();
+        return 1 + p.degree();
     }
 
     @Override
@@ -63,26 +50,28 @@ public class HornerScheme implements Polynomial {
 
     @Override
     public double eval(double x) {
-        return a + x*(p.eval(x));
+        return a + x*p.eval(x);
     }
 
     @Override
     public Iterator<Integer> iterator() {
-        return new HSIterator(p);
+        return new HSIterator(a, p);
     }
 
+
+    // Not sure about equals()
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        HornerScheme integers = (HornerScheme) o;
-        return a == integers.a &&
-                Objects.equals(p, integers.p);
+        HornerScheme other = (HornerScheme) o;
+
+        return this.eval(1) == other.eval(1);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(a, p);
+        return a*31*(p.hashCode()%a+31 + 2);
     }
 
     @Override
@@ -91,43 +80,32 @@ public class HornerScheme implements Polynomial {
     }
 }
 
+class  HSIterator implements Iterator{
 
-class HSIterator implements Iterator<Integer> {
+    private int a;
+    private Iterator iter;
+    private boolean wasCalled = false;
 
-    private HornerScheme polynomial;
-    private Polynomial poly;
-
-    public HSIterator(Polynomial p) {
-        if(p instanceof HornerScheme) {
-            this.polynomial = (HornerScheme) p;
-            poly = p;
-        }
-        else this.poly = p;
+    public HSIterator(int a, Polynomial p) {
+        this.a = a;
+        this.iter = p.iterator();
     }
+
 
     @Override
     public boolean hasNext() {
-       return poly.iterator().hasNext();
+        return iter.hasNext();
     }
 
     @Override
-    public Integer next() throws NoSuchElementException {
-       if(hasNext()) {
-           if(polynomial != null) {
-               if (polynomial.getP() instanceof HornerScheme) {
-                    polynomial = (HornerScheme) polynomial.getP();
-                    poly = polynomial.getP();
-               }
-               else{
-                   polynomial = null;
-               }
-               return polynomial.getA();
-           }
-           return poly.iterator().next();
-
-       }
-       throw new NoSuchElementException();
+    public Object next() {
+        if(!wasCalled) {
+            wasCalled = true;
+            return a;
+        }
+        return iter.next();
     }
 }
+
 
 

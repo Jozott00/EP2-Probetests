@@ -26,6 +26,7 @@ public class PraxisApplication {
             System.out.print(i + " ");
         }
         System.out.println();
+        /* TODO: REMOVE THIS LINE.
         // 3 -2 0 7 5
 
         poly2 = HornerScheme.create(new int[]{10});
@@ -44,6 +45,7 @@ public class PraxisApplication {
         }
         // no coefficient!
 
+        TODO: REMOVE THIS LINE. */
 
     }
 }
