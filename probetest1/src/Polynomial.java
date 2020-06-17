@@ -8,7 +8,6 @@ public class Polynomial {
 
     //TODO: declare variables
     PolyNode root;
-
     // Initializes this polynomial with multiple monomials. The coefficients of the monomials are
     // specified by 'coeffs', where coeffs[i] is the coefficient of the monomial of degree i.
     // Entries with value 0 are ignored, i.e. corresponding monomials are not stored in the polynomial.
@@ -18,6 +17,7 @@ public class Polynomial {
             add(coeffs[i], i);
         }
     }
+
 
     // Adds the monomial specified by 'coeff' and 'degree' to this polynomial, if coeff != 0,
     // otherwise 'add' has no effect.
