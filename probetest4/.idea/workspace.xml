@@ -2,50 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f82ef48-7f9d-4862-878a-b46f39120095" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../probetest1/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/.idea/codeInsightSettings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/.idea/uebung.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/Aufgabe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/CheckMCTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/Choice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/MCQuestion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/MCTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/Monomial.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/Monomial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/Polynomial.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/Polynomial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/PraxisApplication.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/PraxisApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/out/production/uebung/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/src/Aufgabe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/src/CheckMCTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/src/Choice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/src/MCQuestion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/src/MCTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/src/Monomial.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/src/Monomial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/src/Polynomial.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/src/Polynomial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/src/PraxisApplication.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/src/PraxisApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest1/src/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../probetest3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest3/out/production/uebung/Constant.class" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/out/production/uebung/Constant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest3/out/production/uebung/ConstantIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest3/out/production/uebung/HSIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/out/production/uebung/HSIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest3/out/production/uebung/HornerScheme.class" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/out/production/uebung/HornerScheme.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest3/out/production/uebung/MCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/out/production/uebung/MCTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../probetest3/out/production/uebung/PraxisApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/out/production/uebung/PraxisApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest3/src/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/src/Constant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest3/src/HornerScheme.java" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/src/HornerScheme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../probetest3/src/MCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/src/MCTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../probetest3/src/PraxisApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/src/PraxisApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,6 +98,7 @@
       <updated>1556802206896</updated>
       <workItem from="1592322557437" duration="8488000" />
       <workItem from="1592338744065" duration="567000" />
+      <workItem from="1592341257353" duration="541000" />
     </task>
     <servers />
   </component>
@@ -153,22 +114,22 @@
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
     <state x="2732" y="520" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592322573295" />
-    <state width="1878" height="357" key="GridCell.Tab.0.bottom" timestamp="1592334911505">
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1592385086867">
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
-    <state width="1878" height="357" key="GridCell.Tab.0.bottom/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592334911505" />
-    <state width="1878" height="357" key="GridCell.Tab.0.center" timestamp="1592334911504">
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592385086867" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1592385086866">
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
-    <state width="1878" height="357" key="GridCell.Tab.0.center/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592334911504" />
-    <state width="1878" height="357" key="GridCell.Tab.0.left" timestamp="1592334911503">
+    <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592385086866" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1592385086866">
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
-    <state width="1878" height="357" key="GridCell.Tab.0.left/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592334911503" />
-    <state width="1878" height="357" key="GridCell.Tab.0.right" timestamp="1592334911504">
+    <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592385086866" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1592385086867">
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
-    <state width="1878" height="357" key="GridCell.Tab.0.right/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592334911504" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592385086867" />
     <state width="1878" height="357" key="GridCell.Tab.1.bottom" timestamp="1592334911507">
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
@@ -189,10 +150,10 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="111" y="64" width="1809" height="1039" maximized="true" key="dock-window-1/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592323776544" />
-    <state x="116" y="23" width="1804" height="1086" maximized="true" key="dock-window-2" timestamp="1592338750761">
+    <state x="0" y="23" width="1920" height="1177" key="dock-window-2" timestamp="1592383754477">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="116" y="23" width="1804" height="1086" maximized="true" key="dock-window-2/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592338750761" />
+    <state x="0" y="23" width="1920" height="1177" key="dock-window-2/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592383754477" />
     <state x="2489" y="212" width="782" height="825" key="find.popup" timestamp="1592323560637">
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>

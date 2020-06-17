@@ -20,11 +20,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
-  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -34,7 +29,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.PraxisApplication">
     <configuration name="PraxisApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PraxisApplication" />
       <module name="uebung" />
@@ -75,8 +70,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
         <item itemvalue="Application.PraxisApplication" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -102,26 +97,26 @@
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
     <state x="2732" y="520" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592335127337" />
-    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1592340741411">
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1592385069699">
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592340741411" />
-    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1592340741409">
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592385069699" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1592385069698">
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592340741409" />
-    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1592340741409">
+    <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592385069698" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1592385069697">
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592340741409" />
-    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1592340741410">
+    <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592385069697" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1592385069698">
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592340741410" />
-    <state x="112" y="35" width="1800" height="1163" maximized="true" key="dock-window-1" timestamp="1592335300108">
+    <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592385069698" />
+    <state x="0" y="23" width="1920" height="1177" key="dock-window-1" timestamp="1592383754434">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="112" y="35" width="1800" height="1163" maximized="true" key="dock-window-1/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592335300108" />
+    <state x="0" y="23" width="1920" height="1177" key="dock-window-1/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592383754434" />
   </component>
   <component name="masterDetails">
     <states>

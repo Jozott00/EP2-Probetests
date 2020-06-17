@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f82ef48-7f9d-4862-878a-b46f39120095" name="Default" comment="" />
+    <list default="true" id="3f82ef48-7f9d-4862-878a-b46f39120095" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uebung/GameCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/uebung/GameCircle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uebung/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/uebung/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest3/out/production/uebung/PraxisApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/out/production/uebung/PraxisApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest3/src/PraxisApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest3/src/PraxisApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../probetest4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../probetest4/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +30,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1dMEkI819wW0aBeRKhqMe3zJe5S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -86,6 +97,7 @@
       <workItem from="1592227492267" duration="2813000" />
       <workItem from="1592230335573" duration="1048000" />
       <workItem from="1592231573545" duration="1155000" />
+      <workItem from="1592392970067" duration="765000" />
     </task>
     <servers />
   </component>
@@ -101,22 +113,26 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="809" y="507" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1920.1177/1920.96.1920.1057@0.23.1920.1177" timestamp="1592226883107" />
-    <state width="1878" height="405" key="GridCell.Tab.0.bottom" timestamp="1592232731135">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state width="1878" height="288" key="GridCell.Tab.0.bottom" timestamp="1592393763062">
+      <screen x="1920" y="96" width="1920" height="1057" />
     </state>
     <state width="1878" height="405" key="GridCell.Tab.0.bottom/0.23.1920.1177/1920.96.1920.1057@0.23.1920.1177" timestamp="1592232731135" />
-    <state width="1878" height="405" key="GridCell.Tab.0.center" timestamp="1592232731134">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state width="1878" height="288" key="GridCell.Tab.0.bottom/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592393763062" />
+    <state width="1878" height="288" key="GridCell.Tab.0.center" timestamp="1592393763061">
+      <screen x="1920" y="96" width="1920" height="1057" />
     </state>
     <state width="1878" height="405" key="GridCell.Tab.0.center/0.23.1920.1177/1920.96.1920.1057@0.23.1920.1177" timestamp="1592232731134" />
-    <state width="1878" height="405" key="GridCell.Tab.0.left" timestamp="1592232731134">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state width="1878" height="288" key="GridCell.Tab.0.center/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592393763061" />
+    <state width="1878" height="288" key="GridCell.Tab.0.left" timestamp="1592393763060">
+      <screen x="1920" y="96" width="1920" height="1057" />
     </state>
     <state width="1878" height="405" key="GridCell.Tab.0.left/0.23.1920.1177/1920.96.1920.1057@0.23.1920.1177" timestamp="1592232731134" />
-    <state width="1878" height="405" key="GridCell.Tab.0.right" timestamp="1592232731135">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state width="1878" height="288" key="GridCell.Tab.0.left/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592393763060" />
+    <state width="1878" height="288" key="GridCell.Tab.0.right" timestamp="1592393763061">
+      <screen x="1920" y="96" width="1920" height="1057" />
     </state>
     <state width="1878" height="405" key="GridCell.Tab.0.right/0.23.1920.1177/1920.96.1920.1057@0.23.1920.1177" timestamp="1592232731135" />
+    <state width="1878" height="288" key="GridCell.Tab.0.right/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592393763061" />
     <state width="1878" height="405" key="GridCell.Tab.1.bottom" timestamp="1592232731136">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
@@ -137,10 +153,11 @@
       <screen x="1920" y="96" width="1920" height="1057" />
     </state>
     <state x="2093" y="457" key="com.intellij.ide.util.TipDialog/0.23.1920.1177/1920.96.1920.1057@0.23.1920.1177" timestamp="1592230346118" />
-    <state x="1920" y="96" width="960" height="1057" key="dock-window-1" timestamp="1592231595754">
-      <screen x="1920" y="96" width="1920" height="1057" />
+    <state x="209" y="102" width="1920" height="1118" maximized="true" key="dock-window-1" timestamp="1592393285533">
+      <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="1920" y="96" width="960" height="1057" key="dock-window-1/0.23.1920.1177/1920.96.1920.1057@0.23.1920.1177" timestamp="1592231595754" />
+    <state x="209" y="102" width="1920" height="1118" maximized="true" key="dock-window-1/0.23.1920.1177/1920.96.1920.1057@1920.96.1920.1057" timestamp="1592393285533" />
     <state x="625" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1592228638602">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>

@@ -108,6 +108,10 @@ public class GameCircle {
 
         do{
             String temp;
+            if(isEmpty()) {
+                s += "";
+                break;
+            }
             if (currNode == currP) temp = "*" + currNode + "*";
             else temp = currNode.toString();
             s += temp + " ";
